@@ -76,3 +76,4 @@ int main() {
     cout << "Total weight of the Minimum Spanning Tree: " << mst_weight << endl;
     return 0;
 }
+// refer - https://www.youtube.com/watch?v=DMnDM_sxVig
